@@ -1,0 +1,3 @@
+com/elixir/hadoop/Word/WordCount.class
+com/elixir/hadoop/Word/IntSumReducer.class
+com/elixir/hadoop/Word/TokenizerMapper.class
