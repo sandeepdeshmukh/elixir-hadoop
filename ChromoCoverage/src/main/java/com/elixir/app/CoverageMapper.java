@@ -1,4 +1,4 @@
-package com.elixir.hadoop.Chromo;
+package com.elixir.app;
 import java.io.IOException;
 import java.util.StringTokenizer;
 import org.apache.hadoop.io.IntWritable;

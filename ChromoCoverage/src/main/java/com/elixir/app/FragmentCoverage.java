@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.elixir.hadoop.Chromo;
+package com.elixir.app;
 
 import java.io.IOException;
 //import java.util.StringTokenizer;
@@ -31,8 +31,8 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
-import com.elixir.hadoop.FragmentCoverage.CoverageMapper;
-import com.elixir.hadoop.FragmentCoverage.IntSumReducer;
+import com.elixir.app.CoverageMapper;
+import com.elixir.app.IntSumReducer;
 
 public class FragmentCoverage {
 	

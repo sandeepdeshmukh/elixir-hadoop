@@ -17,7 +17,7 @@
  * limitations under the License.
  */
 
-package com.elixir.hadoop.Word;
+package com.elixir.app;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package com.elixir.hadoop.Chromo;
+package com.elixir.app;
 
 import org.apache.hadoop.mapreduce.Partitioner;
 import org.apache.hadoop.io.IntWritable;
