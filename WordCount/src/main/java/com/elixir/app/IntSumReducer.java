@@ -17,10 +17,9 @@
  * limitations under the License.
  */
 
-package com.elixir.hadoop.Word;
+package com.elixir.app;
 
 import java.io.IOException;
-
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;

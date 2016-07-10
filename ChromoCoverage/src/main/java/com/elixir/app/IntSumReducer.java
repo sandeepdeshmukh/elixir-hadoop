@@ -1,7 +1,6 @@
-package com.elixir.hadoop.Chromo;
+package com.elixir.app;
 
 import java.io.IOException;
-
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
